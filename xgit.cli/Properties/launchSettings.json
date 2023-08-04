@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "xgit.cli": {
+      "commandName": "Project"
+    },
+    "xgit.cli.init": {
+      "commandName": "Project",
+      "commandLineArgs": "init"
+    }
+  }
+}
